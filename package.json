@@ -1,14 +1,14 @@
 {
-  "name": "ap1-rafaellacerda",
+  "name": "ap1-data",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Entregar *via Pull Request* sua prova corrigida até o fim da aula (09:20) do dia 08 de outubro.",
+  "main": "data.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "jest": "^29.7.0"
   }
