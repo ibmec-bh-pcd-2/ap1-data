@@ -234,3 +234,5 @@ const linhasOnibusMetropolitanos = [
     acessibilidade: false
   }
 ];
+
+module.exports = { linhasOnibusMetropolitanos }
